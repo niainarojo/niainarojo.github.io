@@ -1,0 +1,28 @@
+#nom{
+    background-color: pink;
+
+}
+img {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+}
+#nom{
+    display: flex;
+
+}
+#nom h1{
+    color:black
+}
+#info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.perso{
+    margin: 10px 30px 10px 30px;
+    padding: 10px 30px 10px 30px;
+}
+h1{
+    color: rgb(158, 48, 85);
+}
